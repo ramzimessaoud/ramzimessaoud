@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramzimessaoud
-- 👀 I’m interested in learning and improving my skills in software development and data analysis
-- 🌱 I’m currently studing computer scienze at university 
+- 👀 I’m interested in learning and improving my skills in software development and data science
+- 🌱 I’m currently studing computer scienze at the university 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
