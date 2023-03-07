@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @ramzimessaoud
-- 👀 I’m interested in learning and improving my skills in software development and data science
-- 🌱 I’m currently studing computer scienze at the university 
+- 👀 I’m interested in learning and improving my skills in machine learning and data science
+- 🌱 I’m currently studing computer scienze at the university, and self-studing data science from online courses, and project-learning here on github! 
+- Here you can find some of my project i did/ i'm working on. 
 
-
-<!---
-ramzimessaoud/ramzimessaoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
